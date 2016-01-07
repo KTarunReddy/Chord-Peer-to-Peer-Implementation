@@ -1,7 +1,7 @@
 import akka.actor.Actor
 
 /**
- * @author KALYAN
+ * @author TARUN
  */
 class Node (nodeId: Int, nodeName: String, numRequests: Int) extends Actor {
   

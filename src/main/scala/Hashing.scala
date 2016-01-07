@@ -2,7 +2,7 @@ import java.security.MessageDigest
 import java.lang.Long
 
 /**
- * @author SRINIVAS
+ * @author TARUN
  */
 
 object Hashing {

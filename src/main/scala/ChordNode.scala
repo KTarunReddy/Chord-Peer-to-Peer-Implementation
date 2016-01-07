@@ -23,7 +23,7 @@ import com.typesafe.config.ConfigFactory
 import com.sun.xml.internal.fastinfoset.tools.PrintTable
 
 /**
- * @author SRINIVAS
+ * @author TARUN
  */
 
 class ChordNode(val hashName: Int, val abstractName: String, val requests: Int) extends Actor {
